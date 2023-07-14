@@ -48,5 +48,9 @@ button {
   color: gray;
 }
 
+#view-highscores {
+  cursor: pointer;
+}
+
 
 
