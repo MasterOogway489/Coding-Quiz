@@ -22,4 +22,4 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## License
 
-MIT License
+Refer to LICENCE in repo.
